@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "Redmine_Reports", "Redmine_Reports\Redmine_Reports.rptproj", "{8BB1C201-AA3C-4FAD-ACF0-95C64663F6E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BB1C201-AA3C-4FAD-ACF0-95C64663F6E7}.Debug|Default.ActiveCfg = Debug
+		{8BB1C201-AA3C-4FAD-ACF0-95C64663F6E7}.Debug|Default.Build.0 = Debug
+		{8BB1C201-AA3C-4FAD-ACF0-95C64663F6E7}.Debug|Default.Deploy.0 = Debug
+		{8BB1C201-AA3C-4FAD-ACF0-95C64663F6E7}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{8BB1C201-AA3C-4FAD-ACF0-95C64663F6E7}.DebugLocal|Default.Build.0 = DebugLocal
+		{8BB1C201-AA3C-4FAD-ACF0-95C64663F6E7}.Release|Default.ActiveCfg = Release
+		{8BB1C201-AA3C-4FAD-ACF0-95C64663F6E7}.Release|Default.Build.0 = Release
+		{8BB1C201-AA3C-4FAD-ACF0-95C64663F6E7}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2415DE5-84C7-47C1-A9DB-583D99EC6A13}
+	EndGlobalSection
+EndGlobal
