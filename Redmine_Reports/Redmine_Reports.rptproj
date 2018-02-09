@@ -10,6 +10,11 @@
   <DataSets />
   <Reports>
     <ResourceProjectItem>
+      <Name>Create_Synonyms.sql</Name>
+      <FullPath>Create_Synonyms.sql</FullPath>
+      <MimeType>application/octet-stream</MimeType>
+    </ResourceProjectItem>
+    <ResourceProjectItem>
       <Name>CreateLinkedServer.sql</Name>
       <FullPath>CreateLinkedServer.sql</FullPath>
       <MimeType>application/octet-stream</MimeType>
@@ -31,8 +36,8 @@
       <FullPath>Projects.rdl</FullPath>
     </ProjectItem>
     <ResourceProjectItem>
-      <Name>Create_Synonyms.sql</Name>
-      <FullPath>Create_Synonyms.sql</FullPath>
+      <Name>Create_Synonyms_DynamicServer.sql</Name>
+      <FullPath>Create_Synonyms_DynamicServer.sql</FullPath>
       <MimeType>application/octet-stream</MimeType>
     </ResourceProjectItem>
   </Reports>
