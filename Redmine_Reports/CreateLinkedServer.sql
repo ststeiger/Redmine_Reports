@@ -5,7 +5,7 @@ EXEC master.dbo.sp_addlinkedserver
     @server = N'REMOTEDB'
    ,@srvproduct = 'OLE DB Provider for SQL'
    ,@provider = N'SQLNCLI'
-   ,@datasrc = 'REMOTEDB' -- this is the reference, but the actual instance name, e.g.  'MSSQLDB2016\SM, 17666'
+   ,@datasrc = 'REMOTEDB' -- this is the reference, but the actual instance name, e.g.  'MSSQLDB2016\RedmineInstance, 17666'
    ,@catalog = 'master'
 
 GO
