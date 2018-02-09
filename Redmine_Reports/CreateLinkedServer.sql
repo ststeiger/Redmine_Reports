@@ -15,7 +15,7 @@ EXEC master.dbo.sp_addlinkedsrvlogin
    ,@useself = false
    --,@locallogin = 'LocalIntegrationUser'
    ,@locallogin = NULL 
-   ,@rmtuser = N'ApertureWebServicesDE'
+   ,@rmtuser = N'RedmineWebServices'
    ,@rmtpassword = N'TOP_SECRET'
 GO
 
