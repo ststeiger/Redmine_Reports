@@ -15,6 +15,11 @@
       <MimeType>application/octet-stream</MimeType>
     </ResourceProjectItem>
     <ResourceProjectItem>
+      <Name>Create_Synonyms_DynamicServer.sql</Name>
+      <FullPath>Create_Synonyms_DynamicServer.sql</FullPath>
+      <MimeType>application/octet-stream</MimeType>
+    </ResourceProjectItem>
+    <ResourceProjectItem>
       <Name>CreateLinkedServer.sql</Name>
       <FullPath>CreateLinkedServer.sql</FullPath>
       <MimeType>application/octet-stream</MimeType>
@@ -35,11 +40,10 @@
       <Name>Projects.rdl</Name>
       <FullPath>Projects.rdl</FullPath>
     </ProjectItem>
-    <ResourceProjectItem>
-      <Name>Create_Synonyms_DynamicServer.sql</Name>
-      <FullPath>Create_Synonyms_DynamicServer.sql</FullPath>
-      <MimeType>application/octet-stream</MimeType>
-    </ResourceProjectItem>
+    <ProjectItem>
+      <Name>Issues_By_Trackers.rdl</Name>
+      <FullPath>Issues_By_Trackers.rdl</FullPath>
+    </ProjectItem>
   </Reports>
   <Configurations>
     <Configuration>
